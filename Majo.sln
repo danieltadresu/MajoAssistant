@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majo", "Majo\Majo.csproj", "{793229B8-6ADF-42C5-9DEB-12A250363782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793229B8-6ADF-42C5-9DEB-12A250363782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793229B8-6ADF-42C5-9DEB-12A250363782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793229B8-6ADF-42C5-9DEB-12A250363782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793229B8-6ADF-42C5-9DEB-12A250363782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {851C48FF-D345-4730-8ECB-F34E32CA216D}
+	EndGlobalSection
+EndGlobal
